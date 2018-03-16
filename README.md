@@ -3,3 +3,5 @@
 
 
 主要做的是以ELM为分类器  以不确定性为选择策略
+
+使用数据集：http://archive.ics.uci.edu/ml/machine-learning-databases/poker/
